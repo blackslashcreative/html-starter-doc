@@ -11,5 +11,4 @@ Open index.html with a code editor like [Visual Studio Code](https://code.visual
 If you need help with your HTML project, you can email me here: [help@blacksla.sh](mailto:help@blacksla.sh)
 
 ### License
-MIT License
-- The MIT license gives users express permission to reuse code for any purpose. 
+The MIT license gives users express permission to reuse code for any purpose. 
