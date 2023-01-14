@@ -1,4 +1,4 @@
-# html-starter-doc
+# HTML Starter Doc
 A starter document that will help you quickly create an HTML page of your own. Modify this to get started on an HTML page quickly. 
 
 ### Installation
