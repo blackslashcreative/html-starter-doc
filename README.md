@@ -1,3 +1,5 @@
+<img src="https://blacksla.sh/github/img/blackslash-logo.svg" alt="BlackSlash Creative Logo" width="400" />
+
 # HTML Starter Doc
 A starter document that will help you quickly create an HTML page of your own. 
 
